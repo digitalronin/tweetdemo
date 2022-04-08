@@ -23,3 +23,10 @@ But, I started from a fresh rails 7 app. using ruby 3.1.1 and node 17
 See [this blog
 post](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
 for more details on how to use this setup for rails development.
+
+## TODO
+
+- Get it running on Heroku
+- Setup CD via github actions
+- Make it less fugly
+- Add tests
