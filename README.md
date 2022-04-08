@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is me trying to get a basic hotwire rails app. working.
 
-Things you may want to cover:
+The code is based on:
+- https://www.youtube.com/watch?v=Qp6sxgjA-xY
+- https://github.com/gorails-screencasts/hotwire-twitter-clone
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+But, I started from a fresh rails 7 app. using ruby 3.1.1 and node 17

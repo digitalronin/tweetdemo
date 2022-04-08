@@ -2,7 +2,10 @@
 
 <h1>Tweets</h1>
 
+<%= turbo_stream_from "tweets" %>
+
 <%= render "tweets/form", tweet: @tweet %>
 
-<%= render @tweets %>
-
+<%= turbo_frame_tag "tweets" do %>
+  <%= render @tweets %>
+<% end %>
